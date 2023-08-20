@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Prompting_Screen</string>
+
+    <string-array name="CountryCode">
+        <item>AUS (+61)</item>
+        <item>BRA (+55)</item>
+        <item>CHN (+86)</item>
+        <item>FRA (+33)</item>
+        <item>JPN (+81)</item>
+        <item>KOR (+82)</item>
+        <item>VNM (+84)</item>
+    </string-array>
+</resources>
