@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun getResponse(prompt: String, callback: (String) -> Unit) {
-        val apiKey = "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" // provided key from KAIST
+        val apiKey = "" // provided key from KAIST
         val apiUrl = "https://api.openai.com/v1/chat/completions"
 
         val test_prompt = prompt.replace("\"", "").replace("\n", "")
